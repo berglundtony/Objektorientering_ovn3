@@ -15,6 +15,7 @@ namespace Objektorientering_ovn3
             {
                 Console.WriteLine($"Ålder: {person.Age} \r\n Förnamn: {person.fName} \r\n Efternamn: {person.lName} \r\n Längd: {person.Height} \r\n Vikt: {person.Weight}");
             }
+            //test
             //Person pers = new Person();
             //personhandler.SetAge(pers, 56);
 
