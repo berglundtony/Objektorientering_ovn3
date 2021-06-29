@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Objektorientering_ovn3", "Objektorientering_ovn3.csproj", "{7860A6E6-FB46-45D3-8A83-0042BD84A403}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animal_OOP", "..\Animal_OOP\Animal_OOP.csproj", "{673BB64F-C2CE-452F-BF4D-F556A35EDBEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7860A6E6-FB46-45D3-8A83-0042BD84A403}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7860A6E6-FB46-45D3-8A83-0042BD84A403}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7860A6E6-FB46-45D3-8A83-0042BD84A403}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7860A6E6-FB46-45D3-8A83-0042BD84A403}.Release|Any CPU.Build.0 = Release|Any CPU
+		{673BB64F-C2CE-452F-BF4D-F556A35EDBEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{673BB64F-C2CE-452F-BF4D-F556A35EDBEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{673BB64F-C2CE-452F-BF4D-F556A35EDBEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{673BB64F-C2CE-452F-BF4D-F556A35EDBEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B915393-B58D-42D6-BA42-C7A056923161}
+	EndGlobalSection
+EndGlobal
